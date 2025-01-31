@@ -67,11 +67,8 @@ The dataset contains details of laptops with features like:
 - If using **Flask**, start the server:
   ```sh
   python app.py
-  ```
 
-## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
