@@ -80,9 +80,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📬 Contact
 
 - **Author:** Ankit Kumar Jha
-- **Email:** [your-email@example.com](mailto\:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **GitHub:** [Your GitHub](https://github.com/your-username)
+- **Email:** [kumar06112003@gmail
+.com](mailto\:your-email@example.com)
 
 ---
 
